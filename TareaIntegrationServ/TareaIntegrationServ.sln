@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TareaIntegrationServ", "TareaIntegrationServ\TareaIntegrationServ.dtproj", "{17D74A1A-950B-4A2D-90C8-90663CB9D55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D74A1A-950B-4A2D-90C8-90663CB9D55C}.Development|Default.ActiveCfg = Development
+		{17D74A1A-950B-4A2D-90C8-90663CB9D55C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FCE7014-2AE6-49AB-ABCF-B592A91FD209}
+	EndGlobalSection
+EndGlobal
